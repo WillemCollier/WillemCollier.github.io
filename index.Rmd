@@ -1,0 +1,15 @@
+---
+title: "Willem Collier"
+description: |
+  PhD Candidate - Population Health Sciences - Biostatistics, University of Utah
+site: distill::distill_website
+---
+
+::: {.floatting}
+```{r out.width='40%', out.extra='style="float:left; padding:12px"',echo=FALSE}
+knitr::include_graphics("WHC_headshot_2.jpg")
+```
+
+Hello! Thank you for visiting my page. I am a 5th year PhD candidate in the biostatistics track of the Population Health Sciences Program at the University of Utah. My current research efforts revolve around statistical methods for the evaluation and use of surrogate endpoints for clinical trials. I have also had the fortune of collaborating extensively with a variety of medical and surgical divisions while a graduate student. I am on track to graduate in Spring 2022 and look forward to starting a new statistical adventure. Please feel free to contact me if you have any questions!
+
+:::

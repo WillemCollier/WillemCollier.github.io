@@ -1,0 +1,16 @@
+name: "WHC Distill Website"
+title: "Willem Collier"
+description: |
+  My Website
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "My Research"
+      href: research.html
+    - text: "CV"
+      href: curriculum_vitae.html
+output: distill::distill_article
